@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Yadav</h1>
 <h3 align="center">Aspiring Software Developer with a strong passion for coding, problem-solving, and creativity.</h3>
 
-- 🔭 I’m currently working on **My POrtfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **C++/DSA And MERN Development**
 
